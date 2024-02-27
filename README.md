@@ -60,5 +60,8 @@
 - 개인정보 수정
 - 개인 일정 CRUD
 
+### 화면
+![20240227_170426](https://github.com/alsrl2275/alsrl2275/assets/142866976/e87fb6ed-2b21-4334-a374-b58f782dca45)
+
 
 
