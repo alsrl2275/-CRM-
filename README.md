@@ -1,5 +1,5 @@
 # SemiProject_21vipCRM
-> CRM을 바탕으로 한 고객관리 및 바우처 생성 프로그램<br>개발 기간 : 2023.11~12
+> CRM을 바탕으로 한 고객관리 및 바우처 생성 프로그램<br>개발 기간 : 2023.11.27 ~ 12.21
 > <br>개발 인원 : 4명
 <br>
 
@@ -7,6 +7,7 @@
 ### 프론트엔드
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 
 ### 백엔드  
 - Java 11
@@ -17,6 +18,7 @@
 - Oracle
 - AWS(Light sail)
 - Apache Tomcat
+
 
 ## 내가 맡은 역할
 - 프론트: 메인페이지, 로그인, 회원가입, ID/PW찾기, 사원관리(관리자)
