@@ -1,5 +1,5 @@
-# SemiProject_21vipCRM
-> CRM을 바탕으로 한 고객관리 및 바우처 생성 프로그램<br>개발 기간 : 2023.11.27 ~ 12.21
+# 📜 SemiProject_21vipCRM
+> CRM 백화점 사내 프로그램을 바탕으로 한 고객 관리 및 바우처 생성 프로그램<br>개발 기간 : 2023.11.27 ~ 12.21
 > <br>개발 인원 : 4명
 <br>
 
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-
+      <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 ### 백엔드  
 - Java 11
 - SpringBoot
@@ -61,11 +61,4 @@
 - 개인 일정 CRUD
 
 
-## 화면
-- 회원가입
 
-![ezgif-6-baee3ca32a](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/b3d547b5-351b-429c-9e06-c0805820d0ed)
-
-- 사원관리
-
-![스크린샷 2024-02-23 151605](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/a2338af7-d370-4d9c-b289-ae61fd63e072)
