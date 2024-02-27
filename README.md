@@ -62,6 +62,11 @@
 
 ### 화면
 ![20240227_170426](https://github.com/alsrl2275/alsrl2275/assets/142866976/e87fb6ed-2b21-4334-a374-b58f782dca45)
+<br>
+![20240227_171305](https://github.com/alsrl2275/alsrl2275/assets/142866976/fd73f176-a43a-474a-a831-481c6fa48e83)
+<br>
+![20240227_171658](https://github.com/alsrl2275/alsrl2275/assets/142866976/ec8250e6-bfca-47ec-b9fc-22e32c98bcd1)
 
+![20240227_171834](https://github.com/alsrl2275/alsrl2275/assets/142866976/eb1c10a9-4d77-45d3-849b-339addf36421)
 
 
