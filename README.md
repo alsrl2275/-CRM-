@@ -21,9 +21,8 @@
 
 
 ## 내가 맡은 역할
-- 프론트: 메인페이지, 로그인, 회원가입, ID/PW찾기, 사원관리(관리자)
-- 백엔드: DB설계, Spring Security를 이용한 페이지 접근 권한, 로그인 설정, 회원가입 api(+아이디 중복 검사), ID/PW 찾기 api(비밀번호는 임시 비밀번호를 이메일로 발송), QueryDSL을 이용한 동적쿼리로 사원 관리 api, 검색된 사원 리스트를 엑셀로 내보내기
-- 그 외: 깃허브 관리, AWS LightSail을 통한 서버 배포
+- 프론트: 예약관리 페이지 및 사이드 바 구현
+- 백엔드: Ajax를 이용한 회원검색 및 정렬, CoolSMS API를 이용한 메시지 기능, 예약내역 CRUD기능 구현
 
 ## 유스케이스
 ![image](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/91bb450c-b851-432c-9f29-91283f31e8bc)
